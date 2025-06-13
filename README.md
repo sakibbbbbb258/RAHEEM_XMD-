@@ -29,7 +29,8 @@
   _______________
 </p>
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Raheem-cm/RAHEEM_XMD-)
+[![Deploy to Render](src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a>)](https://render.com/deploy?repo=https://github.com/Raheem-cm/RAHEEM_XMD-)
 
 ____________
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM_XMD-)
