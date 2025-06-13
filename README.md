@@ -35,8 +35,9 @@
   </a
 
 ____________
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM_XMD-)
-
+[<p align="center">
+  <a href="https://railway.app?referralCode=AqkNn4">
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚅_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=train&logoColor=black&color=purple" width="260" height="50"/>
 _____________
 
 <p align="center">
