@@ -23,7 +23,7 @@
 [![Whatsapp contact](https://img.shields.io/badge/Contact-Dev%20Raheem-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+255763111390)
 
   <!-- Get Session Button -->
-  <a href="https://rahmani-4.onrender.com" target="_blank">
+  <a href="https://lezkush.onrender.com" target="_blank">
     <img 1" src="https://img.shields.io/badge/😎🤔_GET_RAHEEM_SESSION-000000?style=for-the-badge&logo=Ferrari&logoColor=gold&color=black" width="260" height="50"/>
  </a>
   _______________
