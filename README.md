@@ -29,8 +29,10 @@
   _______________
 </p>
 
-[![Deploy to Render](src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
-  </a>)](https://render.com/deploy?repo=https://github.com/Raheem-cm/RAHEEM_XMD-)
+<p align="center">
+  <a href="https://render.com">
+    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
+  </a
 
 ____________
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Raheem-cm/RAHEEM_XMD-)
